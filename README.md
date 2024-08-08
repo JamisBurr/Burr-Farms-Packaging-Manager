@@ -8,7 +8,8 @@ Burr Farms Packaging Manager is a comprehensive tool designed to help farm manag
 - [Usage](#usage)
   - [Adding a New Bag Type](#adding-a-new-bag-type)
   - [Adjusting Inventory](#adjusting-inventory)
-  - [Setting Minimum Thresholds](#setting-minimum-thresholds)
+  - [Setting Minimum Thresholds](#setting-minimum-threshold)
+  - [Setting Reorder Amount](#setting-reorder-amount)
   - [Exporting Data to Excel](#exporting-data-to-excel)
   - [Enabling Dark Mode](#enabling-dark-mode)
 - [Contributing](#contributing)
@@ -19,6 +20,7 @@ Burr Farms Packaging Manager is a comprehensive tool designed to help farm manag
 - **Add and Remove Bag Types:** Easily manage different types of packaging materials.
 - **Adjust Inventory Levels:** Update inventory levels based on usage and new stock.
 - **Set and Display Minimum Thresholds:** Ensure inventory levels do not drop below critical levels.
+- **Set and Display Reorder Amounts:** Define and display reorder amounts to help maintain adequate inventory levels.
 - **Export to Excel:** Generate Excel reports for inventory data.
 - **Dark Mode Support:** Switch between light and dark modes for better visibility.
 
@@ -52,7 +54,7 @@ Burr Farms Packaging Manager is a comprehensive tool designed to help farm manag
    - Click the `Subtract` button.
 4. The `Current Inventory` label will update to reflect the changes.
 
-### Setting Minimum Thresholds
+### Setting Minimum Threshold
 1. Select a bag type from the dropdown list.
 2. Enter the desired minimum threshold in the `Min Threshold` text box.
 3. Click the `Set Min` button.
@@ -63,7 +65,7 @@ Burr Farms Packaging Manager is a comprehensive tool designed to help farm manag
 1. Select a bag type from the dropdown list.
 2. Enter the desired reorder amount in the `Reorder Amount` text box.
 3. Click the `Set Reorder` button.
-4. The `Reorder Amount` label will update to show the new reorder amount.
+4. The `Reorder Amount` label will update to show the new reorder amount, helping you keep track of the optimal quantities to reorder.
 
 ### Exporting Data to Excel
 1. Click the `Export to Excel` button.
