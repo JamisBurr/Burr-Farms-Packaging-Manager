@@ -26,7 +26,7 @@ Burr Farms Packaging Manager is a comprehensive tool designed to help farm manag
 
 ## Installation
 1. **Download the Latest Release:**
-   - Go to the [GitHub Releases page](https://github.com/yourusername/Burr_Farms_Packaging_Manager/releases).
+   - Go to the [GitHub Releases page](https://github.com/JamisBurr/Burr_Farms_Packaging_Manager/releases).
    - Download the latest release package.
 
 2. **Extract Files:**
